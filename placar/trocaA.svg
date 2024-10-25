@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="512.000000pt"
+   height="512.000000pt"
+   viewBox="0 0 512.000000 512.000000"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg2"
+   sodipodi:docname="trocaA.svg"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="1.1953125"
+     inkscape:cx="341.33333"
+     inkscape:cy="341.33333"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)"
+     fill="#000000"
+     stroke="none"
+     id="g2"
+     style="fill:#f2f2f2">
+    <path
+       d="M2926 5097 c-22 -12 -49 -38 -60 -57 -20 -33 -21 -53 -24 -332 l-3 -298 -1204 -2 c-1198 -3 -1204 -3 -1231 -24 -15 -11 -37 -33 -48 -48 -21 -27 -21 -38 -21 -566 0 -528 0 -539 21 -566 11 -15 33 -37 48 -48 27 -21 33 -21 1231 -24 l1204 -2 3 -298 c3 -279 4 -299 24 -332 24 -41 86 -80 130 -80 17 0 50 10 75 23 58 30 1622 1168 1674 1219 39 37 40 40 40 108 0 66 -2 71 -35 104 -47 46 -1623 1194 -1679 1223 -56 29 -95 29 -145 0z"
+       id="path1"
+       style="fill:#f2f2f2" />
+    <path
+       d="M2060 2683 c-67 -35 -1687 -1222 -1706 -1250 -26 -38 -26 -128 0 -166 18 -27 1639 -1214 1706 -1250 67 -35 148 -10 198 63 22 32 22 38 22 331 l0 299 1195 0 c1170 0 1197 0 1234 20 22 11 50 36 62 57 l24 38 0 525 c0 512 -1 526 -21 560 -11 19 -38 45 -60 57 l-39 23 -1197 0 -1198 0 0 299 c0 293 0 299 -22 331 -50 73 -130 98 -198 63z"
+       id="path2"
+       style="fill:#f2f2f2" />
+  </g>
+</svg>
